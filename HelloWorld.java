@@ -9,5 +9,10 @@ class HelloWorld {
 		System.out.println( "\u9FE0\u9FE1\u9FE2\u9FE3\u9FE4\u9FE5\u9FE6\u9FE7\u9FE8\u9FE9" );
 		System.out.println( "\u9FEA\u9FEB\u9FEC\u9FED\u9FEE\u9FEF" );
 		System.out.println( "------------------------------" );
+		System.out.println( "\uFE10\uFE12\uFE11\uFE13\uFE14\uFE15\uFE16\uFE17\uFE18\uFE19" );
+		System.out.println( "\u9FB4\u9FB5\u9FB6\u9FB7\u9FB8\u9FB9\u9FBA\u9FBB" );
+		System.out.println( "\uE81E\uE826\uE82B\uE82C\uE832\uE843\uE854\uE864\uE78D\uE78F" );
+		System.out.println( "\uE78E\uE790\uE791\uE792\uE793\uE794\uE795\uE796" );
+		System.out.println( "------------------------------" );
 	}
 }
